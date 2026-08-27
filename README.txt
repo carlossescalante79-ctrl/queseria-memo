@@ -23,3 +23,4 @@ SUBIDA A VERCEL
 IMPORTANTE
 Ya no se usa localStorage como base principal.
 Los datos se leen desde Neon al abrir la página.
+Conexión Vercel activada
